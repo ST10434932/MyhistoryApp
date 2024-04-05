@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clickMeButton" type="id">clickMeButton</item>
+    <item name="welcomeTextView" type="id">welcomeTextview</item>
+    <item name="editText" type="id">editText</item>
+</resources>
